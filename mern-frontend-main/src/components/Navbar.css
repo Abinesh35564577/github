@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #2e2e5b;
+    color: white;
+  }
+  
+  ul {
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+  }
+  
+  li {
+    cursor: pointer;
+  }
+  
+  li:hover {
+    text-decoration: underline;
+  }
+  

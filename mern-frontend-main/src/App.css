@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-header {
+  font-family: Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #61dafb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: #21a1f1;
+}
